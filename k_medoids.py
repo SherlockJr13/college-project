@@ -1,5 +1,5 @@
 import numpy as np
-import kmedoids
+from kmedoids import KMedoids
 import matplotlib.pyplot as plt
 
 # Define the dataset
